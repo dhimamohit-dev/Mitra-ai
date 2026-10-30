@@ -8,7 +8,7 @@
   anybody reads. "pulse" and "composer border" are not English and must not become Filipino.
 -->
 <resources>
-    <string name="app_name" translatable="false">OpenWeights</string>
+    <string name="app_name" translatable="false">Mitra AI</string>
     <string name="paste">Paste</string>
     <string name="what_copied_without_leaving_conversation">What you copied, without leaving the conversation</string>
     <string name="take_photo">Take a photo</string>

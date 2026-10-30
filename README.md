@@ -319,3 +319,4 @@ readout from the reply.
 [Apache License 2.0](LICENSE). llama.cpp is vendored as a submodule under its MIT license;
 QuickJS under its MIT license; the OpenCL headers and ICD loader under Apache 2.0. Models
 are published by third parties under their own licenses.
+

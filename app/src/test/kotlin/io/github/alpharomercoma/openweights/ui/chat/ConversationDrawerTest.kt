@@ -80,7 +80,7 @@ class ConversationDrawerTest {
             }
         }
 
-        compose.onNodeWithText("OpenWeights").assertIsDisplayed()
+        compose.onNodeWithText("Mitra AI").assertIsDisplayed()
     }
 
     @Test
